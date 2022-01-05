@@ -164,14 +164,13 @@ It takes time and effort to equip an attachment. Attachments can be attached or 
 
 ### List of Attachments
 
-- **Trivial**
-    - 
-- **Simple**
-    -
-- **Advanced**
-    -
-- **Intricate**
-    - 
+#### Trival
+
+#### Simple
+
+#### Advanced
+
+#### Intricate
 
 ---
 
@@ -198,3 +197,24 @@ Starting at the 15th level you are a master crafter. You may add your proficienc
 ## Junkyard Hero
 
 Beginning at the 9th level you can use downtime to scavenge spare parts, useful chemicals, and raw materials which you can use to build your attachments. In order to do so, you must be in a city, junkyard, or another location where such items can be found. Your DM may limit the availability of certain types of materials depending on the location where you are scavenging. For each hour you spend scavenging you can locate 1d4 + your level's GP worth of materials. You can use the materials you collect while scavenging to pay the material cost when forging new attachments.
+
+## Eureka!
+
+Beginning at the 2nd level and again at the 7th, 13th, and 19th levels you recieve a flash of blinding brillance. In this moment of you come up with an idea for a new firearm (list below).
+
+- Shotgun
+    - Pump-action
+    - Semi-automatic
+    - Break-action
+- Assault Rifle
+- Semi-Automatic Rifle
+- Machine Guns
+    - Submachine gun
+    - Light machine gun
+- Bolt-Action Rifle (sniper)
+- Lever-Action Rifle
+- Revolver
+- Flamethrower
+- Pipe Bomb
+- Termite
+- C4
