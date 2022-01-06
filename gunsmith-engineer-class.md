@@ -230,3 +230,23 @@ At the 5th level reloading, a firearm can be performed as a bonus action. At the
 ## Double Tap
 
 At the 17th level, you may attack twice per turn.
+
+---
+
+# Combat Mechanics
+
+## Reloading
+
+## Switching Weapons
+
+## Adjusting Attachments
+
+---
+
+# Class Mechanics
+
+## Crafting
+
+### Crafting Bullets
+
+### Crafting Explosives
