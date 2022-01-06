@@ -77,24 +77,24 @@ You start with the following equipment in addition to the equipment granted by y
 | Level | Proficiency Bonus | Features                                            | Energy |
 | ----- | ----------------- | --------------------------------------------------- | ------ |
 | 1st   | +2                | Attachment Schemantics                              | 0 |
-| 2nd   | +2                | Energy, Eureka!                                     | 2 |
-| 3rd   | +2                | Academic Literacy                                   | 3 |
+| 2nd   | +2                | Energy                                              | 2 |
+| 3rd   | +2                | Eureka!                                             | 3 |
 | 4th   | +2                | Ability Score Improvement                           | 4 |
-| 5th   | +3                | Forging Expertise                                   | 5 |
-| 6th   | +3                |                                                     | 6 |
+| 5th   | +3                | Fast Hands                                          | 5 |
+| 6th   | +3                | Academic Literacy                                   | 6 |
 | 7th   | +3                | Eureka!                                             | 7 |
 | 8th   | +3                | Ability Score Improvement                           | 8 |
 | 9th   | +4                | Junkyard Hero                                       | 9 |
-| 10th  | +4                |                                                     | 10 |
-| 11th  | +4                |                                                     | 11 |
+| 10th  | +4                | Fast Hands                                          | 10 |
+| 11th  | +4                | Forging Expertise                                   | 11 |
 | 12th  | +4                | Ability Score Improvement                           | 12 |
-| 13th  | +5                | Indomitable, Eureka!                                | 13 |
-| 14th  | +5                |                                                     | 14 |
+| 13th  | +5                | Eureka!                                             | 13 |
+| 14th  | +5                | Indomitable (one use)                               | 14 |
 | 15th  | +5                | Crafting Expertise                                  | 15 |
 | 16th  | +5                | Ability Score Improvement                           | 16 |
-| 17th  | +6                |                                                     | 17 |
-| 18th  | +6                |                                                     | 18 |
-| 19th  | +6                | Ability Score Improvement, Eureka!                  | 19 |
+| 17th  | +6                | Double Tap                                          | 17 |
+| 18th  | +6                | Eureka!                                             | 18 |
+| 19th  | +6                | Ability Score Improvement                           | 19 |
 | 20th  | +6                |                                                     | 20 |
 
 #### Mechanic’s Clothes
@@ -176,15 +176,15 @@ It takes time and effort to equip an attachment. Attachments can be attached or 
 
 ## Energy
 
-At 2nd level, you gain 2 Energy, a personal expendable pool of points with an amount equal to your Engineer level. You regain 1d6 Energy during a short rest and fully regain it during a long rest. 1 Energy point is expended when modifying a firearm's attachment. Energy points can be expended when creating schematics to reduce the time.
+At the 2nd level, you gain 2 Energy, a personal expendable pool of points with an amount equal to your Engineer level. You regain 1d6 Energy during a short rest and fully regain it during a long rest. 1 Energy point is expended when modifying a firearm's attachment. Energy points can be expended when creating schematics to reduce the time.
 
 ## Ability Score Improvement
 
-When you reach the 4th level and again at the 8th, 12th, 16th, and 19th level you can increase any ability score by 1 point. As normal, you can't increase an ability score above 20 points.
+When you reach the 4th level and again at the 8th, 12th, 16th, and 19th level you can increase any ability score by 2 points or you can increase two ability scores by 1 point each. As normal, you can't increase an ability score above 20 points.
 
 ## Academic Literacy
 
-At the 3rd level you choose two intelligence-based skills. As an alternative, you could choose one intelligence-based skill and one set of tools you're not proficient in.
+At the 6th level, you choose two intelligence-based skills. As an alternative, you could choose one intelligence-based skill and one set of tools you're not proficient in.
 
 ## Forging Expertise
 
@@ -200,7 +200,7 @@ Beginning at the 9th level you can use downtime to scavenge spare parts, useful 
 
 ## Eureka!
 
-Beginning at the 2nd level and again at the 7th, 13th, and 19th levels you recieve a flash of blinding brillance. In this moment of you come up with an idea for a new firearm (list below).
+Beginning at the 2nd level and again at the 7th, 13th, and 19th levels, you receive a flash of blinding brilliance. In this moment of you come up with an idea for a new weapon (list below).
 
 - Shotgun
     - Pump-action
@@ -218,3 +218,15 @@ Beginning at the 2nd level and again at the 7th, 13th, and 19th levels you recie
 - Pipe Bomb
 - Termite
 - C4
+
+## Indomitable
+
+Beginning at the 13th level you can reroll a saving throw that you failed. If you do so you must use the new roll and you can't use this feature again until you've finished a long rest.
+
+## Fast Hands
+
+At the 5th level reloading, a firearm can be performed as a bonus action. At the 10th level packing a magazine, clip, or belt can be performed as a bonus action.
+
+## Double Tap
+
+At the 17th level, you may attack twice per turn.
